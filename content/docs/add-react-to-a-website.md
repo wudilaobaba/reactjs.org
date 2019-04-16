@@ -27,7 +27,7 @@ There will be no complicated tools or install requirements -- **to complete this
 
 Optional: [Download the full example (2KB zipped)](https://gist.github.com/gaearon/6668a1f6986742109c00a581ce704605/archive/f6c882b6ae18bde42dcf6fdb751aae93495a2275.zip)
 
-### Step 1: Add a DOM Container to the HTML {#step-1-add-a-dom-container-to-the-html}
+### Step 1: Add a DOM Container to the HTM
 
 First, open the HTML page you want to edit. Add an empty `<div>` tag to mark the spot where you want to display something with React. For example:
 
